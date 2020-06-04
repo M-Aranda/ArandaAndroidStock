@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArandaStock</string>
+    <string name="lblTitulo">Inventario</string>
+    <string name="btnVerInventario">Ver inventario</string>
+    <string name="btnExportar">Exportar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="lblNombre">Nombre:</string>
+    <string name="lblPrecio">Precio:</string>
+    <string name="lblStock">Stock:</string>
+    <string name="reg">Registrar</string>
+    <string name="btnVolver">Volver</string>
+</resources>
